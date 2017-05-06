@@ -6,7 +6,6 @@
 #include <iterator>
 #include <vector>
 #include <algorithm>
-#include <math.h>
 #include <bitset>
 
 #pragma pack(1)
